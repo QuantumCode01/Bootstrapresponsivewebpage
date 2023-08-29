@@ -1,0 +1,114 @@
+body{
+    margin-bottom:50px;
+}
+
+.careerbtn{
+    padding: 10px 52px 10px 25px;
+    border-radius: 26px;
+    box-shadow: 0 10px 25px rgba(36, 55, 145, 0.2);
+}
+.roundbtn{
+    padding:3px 12px 5px 12px;
+    border-radius:50%;
+    position:relative;
+    top:24px;
+    right:48px;
+}
+.card{
+    border:none;
+    border-radius: 20px;
+    
+}
+.cardtext{
+    font-family: sans-serif;
+    color: #282b44;
+    /* font-size: 18px; */
+    /* font-weight: 400; */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 25px;
+    text-align: left;
+}
+
+.whr-text{
+    font-family: 'Red Hat Display';
+    color: #282b44;
+    font-size: 16px;
+ 
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+  
+}
+.talent-headline,.career-headline,.worldoffices{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color:#000b6f;
+    line-height: 50px;
+
+}
+.positionbtn{
+    border:none;
+    border:2px solid #0064f4;
+    color:#0064f4;
+    border-radius:25px;
+    padding:5px 22px;
+    opacity: 100%;
+    background: none;
+    font-size:15px;
+}
+.positionbtn:hover{
+        color:#0064f4;
+}
+
+.locationimage{
+    border-radius: 14px;
+    width:55px;
+}
+
+.location{
+    font-family: 'Poppins', sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+}
+.award{
+    width:250px;
+    object-fit: contain;
+}
+
+.navigationbtn{
+    padding:0px 8px 2px 8px;
+    margin-top: 15px;
+}
+@media only screen and (min-width: 576px) {
+    .award{
+        width:250px;
+        object-fit: contain;
+    }
+
+   
+  }
+
+.learningdetails p{
+    font-family: 'Poppins', sans-serif;
+    font-size:14px;
+}
+.learningdetails h2{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size:40px;
+}
+.arrowbtn{
+    padding:1px 10px 3px 10px;
+    border-radius:50%;
+    position:relative;
+    top:10%;
+    right:17%;
+} 
+.registerimg{
+    width:170qb;
+    height:50px;
+}
+.registerbtn{
+    padding: 0px 20px;
+}
