@@ -1,6 +1,20 @@
-body{
-    margin-bottom:50px;
+body {
+        margin: 0;
+        padding: 4px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        background-image: url('images/Layer_1071_copy_5.jpg'), url('images/Layer_1071_copy_3 - Copy.jpg'), url('images/ellipse_666.png'), url('images/Layer_1261.jpg');
+        background-repeat: no-repeat;
+        background-size:28% auto;
+        background-position: left top, center top, right top, right top;
+        background-color: ;
+      
+
 }
+
+
+
 
 .careerbtn{
     padding: 10px 52px 10px 25px;
@@ -111,4 +125,13 @@ body{
 }
 .registerbtn{
     padding: 0px 20px;
+}
+
+#icons_1_{
+    width:25px;
+    background-color: white;
+    outline-color:white;
+    border-radius: 12px;
+    margin-left: 20px;
+    border-color:white;
 }
